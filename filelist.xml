@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="MannaBuildables" modversion="1.0.3" corepackage="False" steamworkshopid="2809102161" gameversion="0.19.11.0">
+  <Text file="%ModDir%/Localization/English.xml" />
+  <Item file="%ModDir%/Xml/items.xml" />
+  <Structure file="%ModDir%/Xml/StructurePrefabs.xml" />
+  <Other file="%ModDir%/Lua/Autorun/init.lua" />
+  <Other file="%ModDir%/Lua/Scripts/HF.lua" />
+  <Other file="%ModDir%/Lua/Scripts/inertiainhibitor.lua" />
+  <Other file="%ModDir%/Lua/Scripts/itemfetch.lua" />
+  <Other file="%ModDir%/Lua/Scripts/loaders.lua" />
+  <Other file="%ModDir%/Lua/Scripts/omniengine.lua" />
+  <Other file="%ModDir%/Lua/Scripts/signalitems.lua" />
+  <Other file="%ModDir%/Images/containers.png" />
+  <Other file="%ModDir%/Images/ExteriorWallsA.png" />
+  <Other file="%ModDir%/Images/labels.png" />
+  <Other file="%ModDir%/Images/LargeInsideWalls.png" />
+  <Other file="%ModDir%/Images/signalcomp.png" />
+</contentpackage>
